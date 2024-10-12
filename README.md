@@ -1,13 +1,13 @@
 <h1 align="center">Hola! 👋, Soy Gabriel Saucedo</h1>
 <h3 align="center">Un apasionado Web Developer de Argentina</h3>
 
-- 🌱 Actualmente aprendiendo **JavaScript, NodeJS**
+- 🌱 Actualmente aprendiendo **Salesforce**
 
 - 👨‍💻 Todos mis proyectos en [https://portfolio-gabisaucedo.netlify.app/](https://portfolio-gabisaucedo.netlify.app/)
 
 - 📫 Envíame un mail **saucedogabriel99@gmail.com**
 
-- 📄 Experiencia **[ Salesforce Developer ]**( LabsXD - mayo/marzo 2023)
+- 📄 Experiencia **[ Salesforce Developer ]**
 
 - ⚡ Aptitud: **Aprender sin límites, crecer sin fronteras.💬**
 
